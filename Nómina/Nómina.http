@@ -1,0 +1,6 @@
+@Nómina_HostAddress = http://localhost:5186
+
+GET {{Nómina_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
